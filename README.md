@@ -1,8 +1,8 @@
 decant
 ======
 
-decant is a developer framework that helps you write notification filters using
-simple javascript.
+decant is an android developer framework that helps you write notification
+filters for android using simple javascript.
 
 ![alt text][logo]
 
