@@ -1,10 +1,11 @@
 decant
 ======
 
-Decant is a developer framework that helps you write notification filters using
+decant is a developer framework that helps you write notification filters using
 simple javascript.
 
 ![alt text][logo]
+
 _If you can't decant, distil it._
 
 
