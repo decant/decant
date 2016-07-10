@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/column1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:maxWidth="100dp"
+        android:text="356129162362 asldjasl;kjd ;ashjd; ashdo;an sjk;dn askl;hdask;hd kl;asj" />
+
+    <TextView
+        android:id="@+id/column2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:maxWidth="60dp"
+        android:text="31549" />
+
+    <TextView
+        android:id="@+id/column3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:maxWidth="60dp"
+        android:text="S3 20 S3 21" />
+
+</LinearLayout>

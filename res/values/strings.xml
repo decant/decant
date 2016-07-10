@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Decant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_plugin_list">PluginListActivity</string>
+    <string name="title_activity_plugin_detail">PluginDetailActivity</string>
+
+	<string-array name="sample_sms_generators">
+	    <item>Select a SMS generator...</item>
+		<item>IRCTC SMS</item>
+		<item>Amazon.in SMS</item>
+		<item>Dominos Offers SMS</item>
+	</string-array>
+</resources>
