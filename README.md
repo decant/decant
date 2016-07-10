@@ -21,7 +21,7 @@ generated from witin the application.
 
 ##License
 
-decant is licensed under the [Apache 2.0 license, Version 2.0
+decant is licensed under the [Apache license, Version 2.0
 ](LICENSE)
 
 [logo]: res/drawable/logo.png "distil it."
