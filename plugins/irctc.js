@@ -34,7 +34,7 @@ function filter(title) {
  * all the necessary information from the SMS Body and convert them into
  * meaningful key-value pairs, which is the returned back as a stringified JSON.
  * This string will be used for processing inside the filtering application.
- * 
+ *
  * @param (String) message - The RAW unfiltered SMS Body
  * @returns {String} - The Strigified JSON of the parsed Body in form of
  *                     Key-Value pairs
@@ -77,6 +77,16 @@ function filterKeys() {
     return JSON.stringify(keys);
 }
 
+/**
+ * Settings allows the user to specify the "friendly" names for the various keys
+ * that are extracted via the extractor() method. These friendly names will
+ * appear in the display when the application runs. In addition to this it is
+ * also used to set if an extracted key is "displayed" or not in the front-end.
+ *
+ * @param - none
+ * @retuens {String} = The Stringified JSON of the settings options set by the
+ *                     user.
+ */
 function settings() {
     var settings = { } ;
 
@@ -84,7 +94,7 @@ function settings() {
     settings.display_name.pnr = "PNR";
     settings.display_name.train = "Train";
     settings.display_name.name = "Name";
-    settings.display_name.status = "Status"; 
+    settings.display_name.status = "Status";
 
     settings.is_displayed = { };
     settings.is_displayed.pnr = true;
