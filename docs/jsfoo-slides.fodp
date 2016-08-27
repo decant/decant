@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2016-08-25T23:36:58.068220870</meta:creation-date><dc:date>2016-08-27T02:22:18.601223281</dc:date><meta:editing-duration>PT3H32M40S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:generator>LibreOffice/5.1.2.2.0$NetBSD_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:object-count="105"/></office:meta>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
+ <office:meta><meta:creation-date>2016-08-25T23:36:58.068220870</meta:creation-date><dc:date>2016-08-27T02:22:18.601223281</dc:date><meta:editing-duration>PT3H32M40S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:generator>LibreOffice/3.4$Win32 LibreOffice_project/340m1$Build-302</meta:generator><meta:document-statistic meta:object-count="113"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-328</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-4637</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">37570</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21796</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">37569</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">21795</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -31,14 +31,17 @@
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
      <config:config-item config:name="SelectedPage" config:type="short">9</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsBigHandles" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
-     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-316</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-2524</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">33329</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21799</config:config-item>
+     <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
+     <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
+     <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-328</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-4637</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">37572</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21798</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -55,12 +58,11 @@
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(user)/config/standard.sob</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soc</config:config-item>
-   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(user)/config/standard.soc</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(user)/config/standard.sod</config:config-item>
    <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
@@ -84,9 +86,9 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(user)/config/standard.sog</config:config-item>
    <config:config-item config:name="HandoutsHorizontal" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(user)/config/standard.soh</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
@@ -101,7 +103,7 @@
    <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(user)/config/standard.soe</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
@@ -121,25 +123,14 @@
    </ooo:libraries>
   </office:script>
  </office:scripts>
- <office:font-face-decls>
-  <style:font-face style:name="Lucida Console1" svg:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Lucida Console" svg:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="AnjaliOldLipi" svg:font-family="AnjaliOldLipi" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Bitstream Vera Sans" svg:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
- </office:font-face-decls>
  <office:styles>
-  <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="m10 0-10 30h20z"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="24pt" fo:language="en" fo:country="IN" style:font-name-asian="Arial Unicode MS" style:font-size-asian="24pt" style:language-asian="ko" style:country-asian="KR" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="ml" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="24pt" fo:language="en" fo:country="IN" style:font-family-asian="&apos;Arial Unicode MS&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="24pt" style:language-asian="ko" style:country-asian="KR" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="24pt" style:language-complex="ml" style:country-complex="IN"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
@@ -187,7 +178,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Bitstream Vera Sans" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="AnjaliOldLipi" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="objectwitharrow" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.7cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
@@ -197,9 +188,6 @@
   </style:style>
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill="none"/>
-  </style:style>
-  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
   <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
@@ -249,6 +237,9 @@
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
    <style:text-properties fo:font-size="12pt"/>
   </style:style>
+  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+  </style:style>
   <style:style style:name="നിറയ്ക്കാത്ത_20_വരി_20_ഇല്ലാത്ത_20_വസ്തു" style:display-name="നിറയ്ക്കാത്ത വരി ഇല്ലാത്ത വസ്തു" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
@@ -263,7 +254,7 @@
   <style:style style:name="സംസ്ഥാപിതം-notes" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="-0.6cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Bitstream Vera Sans" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="AnjaliOldLipi" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="സംസ്ഥാപിതം-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:auto-grow-height="false" draw:fit-to-size="shrink-to-fit">
@@ -311,7 +302,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-top="0.5cm" fo:margin-bottom="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Bitstream Vera Sans" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="AnjaliOldLipi" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="സംസ്ഥാപിതം-outline2" style:family="presentation" style:parent-style-name="സംസ്ഥാപിതം-outline1">
    <style:paragraph-properties fo:margin-top="0.4cm" fo:margin-bottom="0cm"/>
@@ -391,7 +382,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Bitstream Vera Sans" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="AnjaliOldLipi" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="സംസ്ഥാപിതം-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle">
@@ -439,7 +430,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Bitstream Vera Sans" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="AnjaliOldLipi" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-family-asian="&apos;Bitstream Vera Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-family-complex="AnjaliOldLipi" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:presentation-page-layout style:name="AL0T26">
    <presentation:placeholder presentation:object="handout" svg:x="2.058cm" svg:y="1.743cm" svg:width="10.556cm" svg:height="-0.233cm"/>
@@ -510,7 +501,7 @@
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="0.712cm"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="സംസ്ഥാപിതം-backgroundobjects">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="false" fo:min-height="1.449cm"/>
@@ -546,70 +537,37 @@
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:text-align="end"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="end"/>
+   <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:text-align="end"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph">
-   <loext:graphic-properties draw:fill-color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:text-align="center"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="center"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph">
+  <style:style style:name="P6" style:family="paragraph">
    <style:paragraph-properties style:writing-mode="tb-rl"/>
    <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties style:writing-mode="tb-rl"/>
-   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph">
+  <style:style style:name="P7" style:family="paragraph">
    <style:paragraph-properties style:writing-mode="tb-rl"/>
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties style:writing-mode="tb-rl"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph">
-   <loext:graphic-properties draw:fill-color="#ffffff"/>
+  <style:style style:name="P8" style:family="paragraph">
    <style:text-properties fo:font-size="20pt"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph">
-   <style:text-properties style:font-name="Lucida Console1"/>
+  <style:style style:name="P9" style:family="paragraph">
+   <style:text-properties fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph">
+  <style:style style:name="P10" style:family="paragraph">
+   <style:text-properties fo:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
    <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -643,18 +601,24 @@
    <style:text-properties fo:color="#ff0000" fo:font-size="54pt" style:font-size-asian="54pt" style:font-size-complex="54pt"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#0084d1" style:font-name="Lucida Console1"/>
+   <style:text-properties fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties style:font-name="Lucida Console1"/>
+   <style:text-properties fo:font-size="36pt" fo:font-style="italic" style:font-size-asian="36pt" style:font-style-asian="italic" style:font-size-complex="36pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:color="#c0c0c0" style:font-name="Lucida Console1" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#0084d1" fo:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#c0c0c0" fo:font-family="&apos;Lucida Console&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
    <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -701,7 +665,7 @@
   </text:list-style>
   <text:list-style style:name="L2">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
-    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:list-level-properties/>
     <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="2" text:bullet-char="●">
@@ -799,34 +763,32 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="2.898cm"/>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="11.474cm"/>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="20.05cm"/>
-   <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
+   <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
+   <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
+   <draw:frame draw:style-name="gr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
+   <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="സംസ്ഥാപിതം" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame presentation:style-name="സംസ്ഥാപിതം-title" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
-   <draw:frame presentation:style-name="സംസ്ഥാപിതം-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
-    <draw:text-box/>
-   </draw:frame>
    <draw:frame presentation:style-name="സംസ്ഥാപിതം-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
@@ -839,19 +801,25 @@
    <draw:frame presentation:style-name="സംസ്ഥാപിതം-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
-   <draw:frame presentation:style-name="pr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.4cm" svg:y="19.131cm" presentation:class="date-time">
+   <draw:frame presentation:style-name="സംസ്ഥാപിതം-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="സംസ്ഥാപിതം-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="pr1" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.4cm" svg:y="19.131cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame presentation:style-name="pr1" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.576cm" svg:y="19.131cm" presentation:class="footer">
+   <draw:frame presentation:style-name="pr1" draw:text-style-name="P3" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.576cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P5"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
-   <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.076cm" svg:y="19.131cm" presentation:class="page-number">
+   <draw:frame presentation:style-name="pr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.076cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
@@ -871,24 +839,27 @@
     <draw:frame presentation:style-name="സംസ്ഥാപിതം-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
-    <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
+    <draw:frame presentation:style-name="സംസ്ഥാപിതം-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
+    <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
+    <draw:frame presentation:style-name="pr3" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
+    <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -903,20 +874,20 @@
       <text:p>Decant</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr5" draw:text-style-name="P7" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="subtitle" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr5" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
       <text:p><text:span text:style-name="T2">If you can’t decant, distil it.</text:span></text:p>
       <text:p><text:span text:style-name="T2"/></text:p>
       <text:p><text:span text:style-name="T3">JSFOO ‘16</text:span></text:p>
       <text:p/>
-      <text:p><text:a xlink:href="mailto:cherry@zyx.in" xlink:type="simple">cherry@zyx.in</text:a></text:p>
+      <text:p><text:a xlink:href="mailto:cherry@zyx.in">cherry@zyx.in</text:a></text:p>
       <text:p>&amp;</text:p>
-      <text:p><text:a xlink:href="mailto:santhosh.raju@gmail.com" xlink:type="simple">santhosh.raju@gmail.com</text:a></text:p>
+      <text:p><text:a xlink:href="mailto:santhosh.raju@gmail.com">santhosh.raju@gmail.com</text:a></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -951,7 +922,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="3.001cm" svg:height="1.975cm" svg:x="21.082cm" svg:y="3.867cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="3.001cm" svg:height="1.975cm" svg:x="21.082cm" svg:y="3.867cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABegAAAPjCAYAAADP0e5kAADNWElEQVR4Xuzd63Eb2bnvYcjj
        8d1DjOfqGdvEiYBwBIS/7e0buU8CoiIgdwTCRCA4AygDTAbNDMAMqAzICPq8ZS3U6RLG0xKb
@@ -1932,22 +1903,22 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="3.581cm" svg:height="2.54cm" svg:x="5.08cm" svg:y="17.093cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="3.581cm" svg:height="2.54cm" svg:x="5.08cm" svg:y="17.093cm">
      <draw:image xlink:href="">
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.564cm" svg:height="2.564cm" svg:x="16.232cm" svg:y="5.31cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.564cm" svg:height="2.564cm" svg:x="16.232cm" svg:y="5.31cm">
      <draw:image xlink:href="">
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.849cm" svg:height="2.849cm" svg:x="16.51cm" svg:y="11.176cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.849cm" svg:height="2.849cm" svg:x="16.51cm" svg:y="11.176cm">
      <draw:image xlink:href="">
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="4.572cm" svg:height="2.641cm" svg:x="9.144cm" svg:y="13.208cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="4.572cm" svg:height="2.641cm" svg:x="9.144cm" svg:y="13.208cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABQgAAALoCAYAAAA0gxhiAADIJElEQVR4AezdQahmd56f9+dW
        v91zW13dXQYtaqGFFlpooYVCZJAZTeiQNpRBiwIroEECCaRQFaSgCfYiITaeEAcnZMAdxiY2
@@ -2903,7 +2874,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.897cm" svg:height="2.516cm" draw:transform="rotate (-0.418879020478639) translate (3.109cm 0.729cm)">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.897cm" svg:height="2.516cm" draw:transform="rotate (-0.418879020478639) translate (3.109cm 0.729cm)">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA9UAAANUCAYAAAC9pg5iAACNpklEQVR4Aezce4zldX3/8ff3
        7Mze2YvLcnMhW0GpsnMAEfDHj2u3QKpCZYm1paVVG2labWxIVAwt0sZLk5ImNY2xTbVpWhvT
@@ -3582,7 +3553,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.785cm" svg:height="3.826cm" svg:x="23.631cm" svg:y="7.62cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.785cm" svg:height="3.826cm" svg:x="23.631cm" svg:y="7.62cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAPEAAAFLCAYAAAAH7WquAAColElEQVR4AezTMQ6AMAwEQfv/
        jz56ixQguYGZhiQlqytWAQAAAAAAAAAAAAAAAF1/omvq08RGtxQrjJheahijNmJ29Pjm5q1f
@@ -4389,7 +4360,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.701cm" svg:height="4.063cm" svg:x="15.24cm" svg:y="15.241cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.701cm" svg:height="4.063cm" svg:x="15.24cm" svg:y="15.241cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAPIAAAFsCAYAAAD2c+QjAADMC0lEQVR4AezBAQkAAAACoPp/
        uh2BmhMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB07NtPaNZ1AMfxNtzc0pzuXzVrxUwWpQmS
@@ -5364,7 +5335,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.89cm" svg:height="3.048cm" svg:x="1.4cm" svg:y="13.208cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.89cm" svg:height="3.048cm" svg:x="1.4cm" svg:y="13.208cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAW8AAAGDCAYAAADkupHtAAByPElEQVR4AezdBXAjWZa24fe7
        Lq5yYXP3MjMzMzMzMzMzM8zMMjMzMzMFwx+My7vdZcuSlXm/PZGKCsVvlTyZtizTeTuegIJZ
@@ -5913,7 +5884,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="2.795cm" svg:height="2.753cm" svg:x="22.351cm" svg:y="14.732cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="2.795cm" svg:height="2.753cm" svg:x="22.351cm" svg:y="14.732cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAdMAAAHMCAYAAACOfkLjAADjd0lEQVR4AezdBXBkSXbv/+/J
        vLdQVcLmZd59nmVGM3tmzfjf9Zi9aGZmZmZmP+ZnxvEy704PQ3OLseDm+ZcyMqpvKFru0TZV
@@ -7001,7 +6972,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -7019,7 +6990,7 @@
       <text:p>Episodic Memory #2</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P9" draw:layer="layout" svg:width="19.782cm" svg:height="13.195cm" svg:x="4.318cm" svg:y="5.08cm" presentation:class="graphic" presentation:user-transformed="true">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="19.782cm" svg:height="13.195cm" svg:x="4.318cm" svg:y="5.08cm" presentation:class="graphic" presentation:user-transformed="true">
      <draw:image xlink:href="">
       <office:binary-data>/9j/4AAQSkZJRgABAQEAYABgAAD/7QAcUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAD//gAc
        Y21wMy4xMC4zLjNMcTQgMHhmMzQ4OTU5ZQD/2wBDAAMBAQEBAQMBAQEDAwMCAgcFAgICAgkD
@@ -15169,19 +15140,19 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="11.4cm" svg:height="1.2cm" svg:x="6.4cm" svg:y="19cm">
+    <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="11.4cm" svg:height="1.2cm" svg:x="6.4cm" svg:y="19cm">
      <draw:text-box>
-      <text:p>Pic credit: <text:a xlink:href="https://flic.kr/p/7yKkfJ" xlink:type="simple">https://flic.kr/p/7yKkfJ</text:a></text:p>
+      <text:p>Pic credit: <text:a xlink:href="https://flic.kr/p/7yKkfJ">https://flic.kr/p/7yKkfJ</text:a></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P11" draw:layer="layout" svg:width="18.2cm" svg:height="1.772cm" svg:x="5.4cm" svg:y="3.816cm">
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="layout" svg:width="18.2cm" svg:height="1.772cm" svg:x="5.4cm" svg:y="3.816cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T4">Let’s say you were strolling down this street.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -15234,7 +15205,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -15272,7 +15243,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="9.508cm" svg:height="16.904cm" svg:x="18.2cm" svg:y="3.6cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="9.508cm" svg:height="16.904cm" svg:x="18.2cm" svg:y="3.6cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nKy9e8y3XXYWdF3rfr5vvsPMd+g3TDvDUNopPZ9Ge6AUUhGpIWIUUyIKCYQKOEg0hkQi
@@ -28749,7 +28720,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="5" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -28761,7 +28732,7 @@
       <text:p>Your mobile phone #2</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="9.144cm" svg:height="16.257cm" svg:x="16cm" svg:y="4.2cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="9.144cm" svg:height="16.257cm" svg:x="16cm" svg:y="4.2cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOzddXgURxsA8LWzyCUhbiQEkkBCXHCXAoWiRYtTrFAotKWllFKBUgGKu1MoXynu7hAn
@@ -32481,7 +32452,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="9.256cm" svg:height="16.457cm" svg:x="3.2cm" svg:y="4.2cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="9.256cm" svg:height="16.457cm" svg:x="3.2cm" svg:y="4.2cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAtAAAAUACAIAAADhrPJqAAAAA3NCSVQICAjb4U/gAAAgAElE
        QVR4nOydd1gUVxeH78zssixlAaUXwQIoojTB3kussfdeYsGuSYwlxhKjxt571xg/jcYee280
@@ -36227,12 +36198,12 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P13" draw:layer="layout" svg:width="1.153cm" svg:height="14.478cm" draw:transform="rotate (-3.14159265358979) translate (14.927cm 19.05cm)">
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P6" draw:layer="layout" svg:width="-1.153cm" svg:height="-14.478cm" svg:x="14.927cm" svg:y="19.05cm">
      <draw:text-box>
-      <text:p text:style-name="P12"><text:span text:style-name="T6">MACHINES CHAT <text:s/>NOW – COGNITIVE FUSE BLOWN!</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T6">MACHINES CHAT <text:s/>NOW – COGNITIVE FUSE BLOWN!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P9" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="25.6cm" svg:y="6.8cm">
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="25.6cm" svg:y="6.8cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="?f0 ?f7 ?f2 21600" draw:type="up-arrow" draw:modifiers="5400 5400" draw:enhanced-path="M ?f0 21600 L ?f0 ?f1 0 ?f1 10800 0 21600 ?f1 ?f2 ?f1 ?f2 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -36246,7 +36217,7 @@
       <draw:handle draw:handle-position="$1 $0" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P9" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="0.8cm" svg:y="6.6cm">
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="0.8cm" svg:y="6.6cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="?f0 ?f7 ?f2 21600" draw:type="up-arrow" draw:modifiers="5400 5400" draw:enhanced-path="M ?f0 21600 L ?f0 ?f1 0 ?f1 10800 0 21600 ?f1 ?f2 ?f1 ?f2 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -36262,7 +36233,7 @@
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="6" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -36276,7 +36247,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:layer="layout" svg:width="25.199cm" svg:height="14.224cm" svg:x="1.401cm" svg:y="4.318cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P9">As a programmer, </text:p>
+      <text:p text:style-name="P4">As a programmer, </text:p>
       <text:list text:style-name="L3">
        <text:list-item>
         <text:p>How do you help reduce the <text:span text:style-name="T7">cognitive load</text:span> from crazy amounts of (often <text:span text:style-name="T7">machine generated) </text:span>data ?</text:p>
@@ -36294,12 +36265,12 @@
         <text:p>How do you devise the machine that’s partly the problem, to fix it ? </text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P9">We came up with <text:span text:style-name="T7">D</text:span><text:span text:style-name="T5">ecant</text:span><text:span text:style-name="T8"> </text:span></text:p>
+      <text:p text:style-name="P4">We came up with <text:span text:style-name="T7">D</text:span><text:span text:style-name="T5">ecant</text:span><text:span text:style-name="T8"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -36349,14 +36320,14 @@
         <text:p>Case study: SMS - simple to narrow down via rules - SMSs are structured in simple ways.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p>See: <text:a xlink:href="https://www.github.com/decant/decant" xlink:type="simple">https://www.github.com/decant/decant</text:a></text:p>
+        <text:p>See: <text:a xlink:href="https://www.github.com/decant/decant">https://www.github.com/decant/decant</text:a></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="8" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -36365,15 +36336,15 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Decanted Messages</text:p>
+      <text:p>Decanted Messages #1</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr10" draw:text-style-name="P15" draw:layer="layout" svg:width="1.128cm" svg:height="15.494cm" draw:transform="rotate (-3.14159265358979) translate (14.902cm 19.558cm)">
+    <draw:frame draw:style-name="gr10" draw:text-style-name="P7" draw:layer="layout" svg:width="-1.128cm" svg:height="-15.494cm" svg:x="14.902cm" svg:y="19.558cm">
      <draw:text-box>
-      <text:p text:style-name="P14"><text:span text:style-name="T1">EASIER TO INTEPRET RESULTS FROM THE TEXTUAL CLUTTER</text:span></text:p>
+      <text:p text:style-name="P7"><text:span text:style-name="T1">EASIER TO INTEPRET RESULTS FROM THE TEXTUAL CLUTTER</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P9" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="25.6cm" svg:y="6.8cm">
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="25.6cm" svg:y="6.8cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:text-areas="?f0 ?f7 ?f2 21600" draw:type="up-arrow" draw:modifiers="5400 5400" draw:enhanced-path="M ?f0 21600 L ?f0 ?f1 0 ?f1 10800 0 21600 ?f1 ?f2 ?f1 ?f2 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -36387,7 +36358,7 @@
       <draw:handle draw:handle-position="$1 $0" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P9" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="0.8cm" svg:y="6.6cm">
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="0.8cm" svg:y="6.6cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:text-areas="?f0 ?f7 ?f2 21600" draw:type="up-arrow" draw:modifiers="5400 5400" draw:enhanced-path="M ?f0 21600 L ?f0 ?f1 0 ?f1 10800 0 21600 ?f1 ?f2 ?f1 ?f2 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$1 "/>
@@ -36401,7 +36372,7 @@
       <draw:handle draw:handle-position="$1 $0" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P8" draw:layer="layout" svg:width="9.256cm" svg:height="16.457cm" svg:x="3.19cm" svg:y="4.2cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P4" draw:layer="layout" svg:width="9.256cm" svg:height="16.457cm" svg:x="3.19cm" svg:y="4.2cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAeAAAAMgCAIAAAB0wSZfAACAAElEQVR42uy9d5xW1b3vb2KK
        eoyxxbRjYmyJJtbYoiYqdjlqYokmsRtLjOAAA0MZemfoMFSpwwAz9C4dQVBQmvQ+dAQ053du
@@ -37314,7 +37285,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P8" draw:layer="layout" svg:width="9.146cm" svg:height="16.257cm" svg:x="16cm" svg:y="4.2cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P4" draw:layer="layout" svg:width="9.146cm" svg:height="16.257cm" svg:x="16cm" svg:y="4.2cm">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAeAAAAMgCAIAAAB0wSZfAACAAElEQVR42uy9d3wd1Zn/T8Im
        AZYQWkglIbQEEmpoARLAdLxAQgkkAUwJJQQbuUhukm1ZrnJvckM2tiwXWbbcjXvDvcjGvdtY
@@ -37933,7 +37904,7 @@
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="9" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P16" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
@@ -37942,53 +37913,578 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Anatomy of a Plugin</text:p>
+      <text:p>Decanted Messages #2</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr9" draw:text-style-name="P17" draw:layer="layout" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> name() {</text:span></text:p>
-      <text:p><text:span text:style-name="T12"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// Name of the plugin.</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-      <text:p><text:span text:style-name="T12"/></text:p>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> description() {</text:span></text:p>
-      <text:p><text:span text:style-name="T12"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// A brief description of what it does.</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-      <text:p><text:span text:style-name="T12"/></text:p>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> filter(title) {</text:span></text:p>
-      <text:p><text:span text:style-name="T12"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// The condition to check to see if a</text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// notification needs to be processed.</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-      <text:p><text:span text:style-name="T12"/></text:p>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> extractor(message) {</text:span></text:p>
-      <text:p><text:span text:style-name="T12"><text:s/></text:span><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">// Extract Useful information from the </text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// Notification and pass it back.</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-      <text:p><text:span text:style-name="T12"/></text:p>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> filterKeys() {</text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// Keys that can be used for filtering the </text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// extracted results.</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-      <text:p><text:span text:style-name="T12"/></text:p>
-      <text:p><text:span text:style-name="T11">function</text:span><text:span text:style-name="T12"> settings() {</text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// Settings like whart sort of columns will be </text:span></text:p>
-      <text:p><text:span text:style-name="T13"><text:s text:c="2"/></text:span><text:span text:style-name="T13">// displayed or not etc</text:span></text:p>
-      <text:p><text:span text:style-name="T12">}</text:span></text:p>
-     </draw:text-box>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="1.8cm" svg:height="12cm" svg:x="0.8cm" svg:y="6.6cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-vertical="true" draw:text-areas="?f0 ?f7 ?f2 21600" draw:type="up-arrow" draw:modifiers="5400 5400" draw:enhanced-path="M ?f0 21600 L ?f0 ?f1 0 ?f1 10800 0 21600 ?f1 ?f2 ?f1 ?f2 21600 Z N">
+      <draw:equation draw:name="f0" draw:formula="$1 "/>
+      <draw:equation draw:name="f1" draw:formula="$0 "/>
+      <draw:equation draw:name="f2" draw:formula="21600-$1 "/>
+      <draw:equation draw:name="f3" draw:formula="21600-?f1 "/>
+      <draw:equation draw:name="f4" draw:formula="?f3 *?f0 /10800"/>
+      <draw:equation draw:name="f5" draw:formula="?f1 +?f4 "/>
+      <draw:equation draw:name="f6" draw:formula="?f1 *?f0 /10800"/>
+      <draw:equation draw:name="f7" draw:formula="?f1 -?f6 "/>
+      <draw:handle draw:handle-position="$1 $0" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800" draw:handle-range-y-minimum="0" draw:handle-range-y-maximum="21600"/>
+     </draw:enhanced-geometry>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P4" draw:layer="layout" svg:width="9.256cm" svg:height="16.314cm" svg:x="3.19cm" svg:y="4.343cm">
+     <draw:image xlink:href="">
+      <office:binary-data>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
+       aKvVPOdvfvMbhT594uO5556r99bnnlNuuC6tyaShvSr4HzBggCL5vLy8O+64o36jd4UDl112
+       mV122tdjjz2WkpKiIF3Rrn0S+v7771fvd999933729/GmwBNTm1l5AuMoqGNJ3I+7L/sfOUr
+       X2no6tMY4Yknnnj88cdvvPFGdQb33HPP9ddfr5j94osv5kQANFqTT3gtnBb9sw+qBQAAAAAA
+       AAAAAAAAAAAAAE5SrgIAgKTk/363CQAAkhAEDQCAoAEAAEEDACBoAABA0AAACBoAABA0AAAg
+       aAAABA0AAAgaAABBAwAAggYAAAQNAICgAQAAQQMAIGgAAEDQAAAIGgAAEDQAACBoAAAEDQAA
+       CBoAAEEDAACCBgAABA0AgKABAABBAwAgaAAAOJ0EvWzZsuPHj1dVVT311FNXXHHFabLrJGHF
+       ihXBGkjyagk9Zs47NBw/+clPJk+e/P9U895771133XUnn6DfeOON0aNHjwmghbm5uV26dLn1
+       1ltDN9y8efN//ud//td//dfvfve7Rm4t9bXr0LIPHz48IyPjxRdfTGYFbN26NVgDcVbLSy+9
+       ZKV+9tlnG7OMocfcJOcdThMmTZpkF4zQL/rzyiuvPMkErbb6f/7P//l/Y/O3v/1tzZo1atW+
+       JnEKCDqi7Fp++PDh4uLihx56KAldUBdBL1261Eo9b968RrheETQ0FQqc/8vDv//7v1911VUn
+       maAVSamt6uj//ve//9sX+cc//uE6H5Wta9eu3lbRhK1F0nyqmjr6JbTs6pDkL1dwDahTUlLq
+       XsC0tLTy8vKdO3cqQq+7Fh9++OFgDcRzRu64446//OUvVrrjx4/X7/UaXcbQY677eddOd1ZT
+       LxULCDpJBV1YWHj11Vdf9UXatWvnmv1nn332yCOP1DZeawiu+JwGKvtdd93Vr18/FdDWqqPy
+       dU4JIH3I+6qxkpKSunsktAbiOSNDhw61QhkZGRn1KLXoMtb9rIXmoJ3+ZzX1UrFwKvHee+95
+       BT158uSTb4rDSWrq1KmhjUrC2rBhg7X8oqIil+YUGG9GlF1/quBjx479j//4DyU4ceJE8+bN
+       61JMecT21XAeieeMbNu2TWmOHj2q7lYpP/zww3qMKRqhjKE7teaHoMHHddddJyn/ezX65V/+
+       5V8aYaeNKmjj7bfftjS7d+927bkhBH3fffe98cYbTz/9dL1k+MADD7z55psRudVYdi1csGCB
+       FXP27NkR7f+ZZ57RvjSKj7Wv+OV1ww03PP/886rzX/3qV7WqhxrPiLL9X//rf1lZli5dqsQa
+       HMTf8fz617/WUUXUJ4KGZMMiLdFo10YTCFoN8t/+7d+UpqqqKlrQBw8ePH78+NatW0PjsvLy
+       cq31Wt7RrVs3rf2f//N/2g06Raxqb7fffntBQcEnn3xSWVnpTSy5aKGy8j5upWy1RKtUin79
+       +lVUVCj4tdx02DNnzrzpppsSKPtjjz32P/7H/1CaTz/9NHjYv/zlLxcuXKijtdtu2uPhw4dn
+       zJjx85//3KWZP3++jlZ9uHnkr3/96/Fqpk2b5ttpWlrali1blMBysyNftGjR448/7nPi8uXL
+       gzVQo6DlZSVQti+99FK7du2s7BoGRl+7r7766sqVK//yl7+4o1JVLFmyRH1SrcroO+a2bdse
+       O3ZMf5aWloYewKhRoyz9iBEjLIHvvEfvVOWyxDpBofnb5kpQYw0AJLWghdpkPIKWYbVEI+hQ
+       QWtzm8v2rR02bJg2dA/EuBt0Go//+c9/1i/qHmoMFe0IpelJkyZJlMHclJVvv3F2Tm5377zz
+       jneVQmaV1Lcj25cO46GHHrJkq1evDqYRMq93p3PmzAketuUmiciSXucm9hSHjlZr1XX96Ec/
+       UoL9+/frz71790bMcvTt2/dvf/tb6FGpwtu0aWM7iqeMvmMWErTdurn55puDu96xY4fSq07c
+       44C+Akbv9K233rKbvbp4QvO3C0Y5/OlPf+KZEDiJBf3cc8/ZVOzHH39c74J+4403/v73v1vT
+       2rRp08CBA9u3bz9kyJDt27dbTGptLE5BK9rVJvv27Rs7dmznzp0HDBiwePFiy0SbZGZmessY
+       Z+dkgaeSaTTtFjZv3lzxlx32Bx98oH29+OKLWVlZ2rXt6/3337eULVu27N+//7x58ywTJdZR
+       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
+       a1vLYdSoUfn5+V5BezdRdK/fW1ajxDpOhXvFxcVaqK28B6Y+o127dgoAg31Gkgi6qKhIh71i
+       xQo3nNTanJwcN98XWlhbpbBX6pQZbRCqkir+jSipNTOfRu3UWMXKjCUlJfPnz/cd9tixY0PH
+       TFOnTtVyBeYrV67ULzoFvj3WWDpvmry8PP2iS+6TTz5BAUkFgk46QYtJkyZ5YysjOztbbWzb
+       tm1uyfbt21NSUtSuZG011NLSUqlWG6r1ug2jbxLKKb169ZKAJIIlS5YsXLgwKytLutGS0JuE
+       Chjnzp2rtb1799bhaZWNxKUqBYDeefN58+ZpK8V3STvFMWPGDKVUlyYRl1VjjUHxsgWVVlgt
+       8Rb2s+rbfRp4arkqTXZTB6Y8lfPQoUNjRaADBw5Upfke3li9erX3joJFTN4E2lF6errOry9C
+       1/K0tLS+fftq6COlKk2fPn18e4woneu/LY1Kp2GZDiPWZDcgaAT9BT788EOdFe/cos6QFDBo
+       0CBvE1IEJDNKRm7WcufOnW3atFHrdbFetKAVletPRc1uSKX43WwSKmjbhc1Byw7uYIYMGaI0
+       spVbYheWuo0kF7Qk62pP5rKym4utsDYH7S2sWVt9j9tQXtapUcrQOwdCWowl6HHjxsXS4syZ
+       M0PvHyxfvlzLdfZtuc2frFu3zpssonTqib1pdOSHDh0Kdg+AoBF0zBkoxcLeu0PWVhctWuRt
+       Rfrdmp93W8VTaoRurBotaBOrRtDBCdNYj9mF3iRUYtOBpdm9e7d6Dh1JI09AJyDoBQsWeFNq
+       FOKVZuhNQhlNaTZs2BCUpnV19SLoNWvWqA779esXnDnJy8tTN+wmK3QkOkjfFFNE6XSavGmC
+       8yqAoBF0DRQXF3sbjxqqhroHDhwIppTEZQeFdcXVdOnSRS5QIByPoM3mPgUkIGiFYKmpqdq1
+       HaEOu6kena6joG2kkpmZaaULFbSK2a5dO990raXs06dP6PMetRW0DjUlJaVbt27bt2/3rdKO
+       1HPn5uZ6t1J33rlzZ+9Ni+jSRaQBBI2ga0aDawVQ1g7NLMH5XA1aJ0+erJapeKpnz579q9FW
+       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
+       AwAAggYAQNAAAICgAQAQNAAAIGgAAEDQAAAIGgAAEDQAAIIGAAAEDQCAoAEAAEEDAACCBgBA
+       0AAAgKABABA0AAAgaAAAQNAAAAgaAAAQNAAAggYAAAQNAICgAQAAQQMAAIIGAEDQAACAoAEA
+       EDQAACBoAABA0AAACBoAABA0AACCBgAABA0AgKABAABBAwAAggYAQNAAAICgAQAQNAAAIGgA
+       AEDQAAAIGgAAEDQAAIIGAAAEDQAACBoAAEEDAACCBgBA0AAAgKABABA0AAAgaAAAQNAAAAga
+       AAAQNAAAggYAAAQNAAAIGgAAQQMAAIIGAEDQAACAoAEAEDQAACBoAABA0AAACBoAABA0AACC
+       BgAABA0AAAgaAABBAwAAggYAQNAAAICgAQAQNAAAIGgAAEDQAAAIGgAAEDQAAIIGAAAEDQAA
+       CBoAAEEDAACCBgBA0AAAgKABAABBAwAgaAAAQNAAAAgaAAAQNAAAggYAAAQNAAAIGgAAQQMA
+       AIIGAEDQAACAoAEAAEEDACBoAABA0AAACBoAABA0AACCBgAABA3/Xzt1TAAAAAAQrH9rQWwR
+       HAAMGsCgATBoAIMGwKABMGgAgwbAoAEMGgCDBjBoAAwaAIMGMGgADBrAoAEwaAAMGsCgATBo
+       AIMGwKABMGgAgwbAoAEMGgCDBjBoAAwaAIMGMGgADBrAoAEwaAAMGsCgATBoAIMGwKABDBoA
+       gwbAoAEMGgCDBjBoAAwaAIMGMGgADBrAoAEwaACDBsCgATBoAIMGwKABDBoAgwbAoAEMGgCD
+       BjBoAAwawKAlADBoAAwawKABMGgAgwbAoAEwaACDBsCgAQwaAIMGwKABDBoAgwYwaAAMGsCg
+       ATBoAAwawKABMGgAgwbAoAEwaACDBsCgAQwaAIMGMGgADBoAgwYwaAAMGsCgATBoAAwawKAB
+       MGgAgwbAoAEMGgCDBsCgAQwaAIMGMGgADBoAgwYwaAAMGsCgATBoAAwawKABMGgAgwbAoAEM
+       GgCDBsCgAQwaAIMGMGgADBoAgwYwaAAMGsCgATBoAIMGwKABMGgAgwbAoAEMGgCDBsCgAQwa
+       AIMGMGgADBrAoAEwaAAMGsCgATBoAIMGwKABMGgAgwbAoAEMGgCDBsCgAQwaAIMGMGgADBrA
+       oAEwaAAMGsCgATBoAIMGwKABMGgAgwbAoAEMGgCDBjBoAAwaAIMGMGgADBrAoAEwaAAMGsCg
+       ATBoAIMGwKABDBoAgwbAoAEMGgCDBhgJQxhy70Eq5+kAAAAASUVORK5CYII=
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.764cm" svg:height="0.962cm" svg:x="5.334cm" svg:y="3.81cm">
+    <draw:frame presentation:style-name="pr7" draw:text-style-name="P9" draw:layer="layout" svg:width="12.63cm" svg:height="12.179cm" svg:x="13.97cm" svg:y="4.915cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P9">Holy Foo, it’s in javascript!</text:p>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p text:style-name="P9"><text:span text:style-name="T11">Using the Filter you can narrow down your search</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P9"><text:span text:style-name="T11">For example, offers that might expire Today or on a specific date</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P9"><text:span text:style-name="T11">Know which offer expires when </text:span><text:span text:style-name="T12">without the need to keep a metal state on each of them</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P9"><text:span text:style-name="T11">Or even put a filter on the “Type” of offer, for a group party or more fit for a solo Pizza binge session.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P9"><text:span text:style-name="T11">Never miss a Pizza Offer!!</text:span></text:p>
+       </text:list-item>
+      </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="10" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P16" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page11" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Anatomy of a Plugin</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr9" draw:text-style-name="P10" draw:layer="layout" svg:width="25.199cm" svg:height="13.86cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> name() {</text:span></text:p>
+      <text:p><text:span text:style-name="T14"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// Name of the plugin.</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+      <text:p><text:span text:style-name="T14"/></text:p>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> description() {</text:span></text:p>
+      <text:p><text:span text:style-name="T14"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// A brief description of what it does.</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+      <text:p><text:span text:style-name="T14"/></text:p>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> filter(title) {</text:span></text:p>
+      <text:p><text:span text:style-name="T14"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// The condition to check to see if a</text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// notification needs to be processed.</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+      <text:p><text:span text:style-name="T14"/></text:p>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> extractor(message) {</text:span></text:p>
+      <text:p><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T15"><text:s/></text:span><text:span text:style-name="T15">// Extract Useful information from the </text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// Notification and pass it back.</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+      <text:p><text:span text:style-name="T14"/></text:p>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> filterKeys() {</text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// Keys that can be used for filtering the </text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// extracted results.</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+      <text:p><text:span text:style-name="T14"/></text:p>
+      <text:p><text:span text:style-name="T13">function</text:span><text:span text:style-name="T14"> settings() {</text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// Settings like whart sort of columns will be </text:span></text:p>
+      <text:p><text:span text:style-name="T15"><text:s text:c="2"/></text:span><text:span text:style-name="T15">// displayed or not etc</text:span></text:p>
+      <text:p><text:span text:style-name="T14">}</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr12" draw:layer="layout" svg:width="16.764cm" svg:height="0.963cm" svg:x="5.334cm" svg:y="3.81cm">
+     <draw:text-box>
+      <text:p text:style-name="P4">Holy Foo, it’s in javascript!</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="11" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Episodic Memory #4</text:p>
@@ -37996,10 +38492,10 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr7" draw:layer="layout" svg:width="25.199cm" svg:height="2.54cm" svg:x="1.725cm" svg:y="18.034cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>What if you wanted to find that <text:span text:style-name="T14">shop</text:span> with the <text:span text:style-name="T14">shiny toy</text:span> you noticed <text:span text:style-name="T14">last year</text:span>, while eyeing that <text:span text:style-name="T7">hot guy/girl </text:span><text:span text:style-name="T8">eating </text:span><text:span text:style-name="T7">icecream</text:span>, just before your <text:span text:style-name="T14">face hit</text:span> the pavement ?</text:p>
+      <text:p>What if you wanted to find that <text:span text:style-name="T16">shop</text:span> with the <text:span text:style-name="T16">shiny toy</text:span> you noticed <text:span text:style-name="T16">last year</text:span>, while eyeing that <text:span text:style-name="T7">hot guy/girl </text:span><text:span text:style-name="T8">eating </text:span><text:span text:style-name="T7">icecream</text:span>, just before your <text:span text:style-name="T16">face hit</text:span> the pavement ?</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P8" draw:layer="layout" svg:width="20.828cm" svg:height="13.83cm" svg:x="3.302cm" svg:y="4.064cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="20.828cm" svg:height="13.83cm" svg:x="3.302cm" svg:y="4.064cm">
      <draw:image xlink:href="">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQECAgMCAgICAgQDAwIDBQQF
        BQUEBAQFBgcGBQUHBgQEBgkGBwgICAgIBQYJCgkICgcICAj/2wBDAQEBAQICAgQCAgQIBQQF
@@ -46955,13 +47451,14 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="11" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P16" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="12" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page12" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Distil it</text:p>
@@ -46989,19 +47486,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="12" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page13" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page14" draw:style-name="dp3" draw:master-page-name="സംസ്ഥാപിതം" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr4" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Questions ?</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P9" draw:layer="layout" svg:width="12.996cm" svg:height="12.179cm" svg:x="7.501cm" svg:y="4.2cm" presentation:class="graphic" presentation:user-transformed="true">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="12.996cm" svg:height="12.179cm" svg:x="7.501cm" svg:y="4.2cm" presentation:class="graphic" presentation:user-transformed="true">
      <draw:image xlink:href="">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAb0AAAGhCAIAAAB6WP3zAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAIA/SURBVHhe7b2JX1RXtvj7/pjfe/fd
@@ -47617,14 +48115,14 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame presentation:style-name="pr10" draw:text-style-name="P18" draw:layer="layout" svg:width="25.199cm" svg:height="3.799cm" svg:x="1.4cm" svg:y="16.6cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr10" draw:text-style-name="P11" draw:layer="layout" svg:width="25.199cm" svg:height="3.799cm" svg:x="1.4cm" svg:y="16.6cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T15"><text:line-break/></text:span><text:span text:style-name="T15">After the talk, Santhosh can walk you through how to write Decant plugins.</text:span></text:p>
+      <text:p><text:span text:style-name="T17"><text:line-break/></text:span><text:span text:style-name="T17">After the talk, Santhosh can walk you through how to write Decant plugins.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr6" draw:text-style-name="P16" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr6" draw:text-style-name="P8" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
