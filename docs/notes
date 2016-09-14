@@ -1,0 +1,18 @@
+-*- mode: org; -*-
+
+Notes from Santhosh (fragger_fox)
+
+* Scripting, Why?
+  - Brings the application alive
+  - People can change it, if they do not like it
+  - Examples: emacs, firefox, shell, excel
+
+* Client Side Scripting
+  - Even the smallest of change requires you have entire to be installed
+  - Why not break this paradigm?
+
+* JVM Languages
+  - Rhino Javascript can do interoperatibility with Java Objects too
+  - This means it can interact with Android components too
+  - Garbage Collection / Threads etc are well managed via JVM
+  - Rhino can do what Java can do
