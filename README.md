@@ -1,6 +1,8 @@
 decant
 ======
 
+[![Join the chat at https://gitter.im/decant/decant](https://badges.gitter.im/decant/decant.svg)](https://gitter.im/decant/decant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 decant is a mobile developer framework that helps you write notification
 filters using simple javascript.
 
