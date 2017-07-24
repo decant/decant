@@ -35,7 +35,7 @@ code you can grab a copy of the precompiled APK [here!][download_url]
 
 MD5 of the APK: 5dbb866d8dd8fb807f5f8e58ae865b51
 
-##License
+## License
 
 decant is licensed under the [Apache license, Version 2.0
 ](LICENSE)
